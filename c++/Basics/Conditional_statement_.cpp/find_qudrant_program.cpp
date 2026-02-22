@@ -10,13 +10,13 @@ int main(){
         cout<<"Ist qudrant";
     }
     else if(x>0 and y<0){
-        cout<<"llnd qudrant";
+        cout<<"lVnd qudrant";
     }
     else if(x<0 and y>0){
-        cout<<"lllnd qudrant";
+        cout<<"lInd qudrant";
     }
     else{
-        cout<<"lV qudrant ";
+        cout<<"lII qudrant ";
     }
     cout<<endl;
 }
