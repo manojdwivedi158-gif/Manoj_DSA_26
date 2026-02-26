@@ -1,6 +1,6 @@
 
 
-//  Display thhis ap - 1,3,5,7,9..
+//  Display thhis ap - 1,3,5,7,9..          //   An=a+(n-1)d     n=nth term;  a= first term;   d=distance,gap
 
 #include<iostream>
 using namespace std;
