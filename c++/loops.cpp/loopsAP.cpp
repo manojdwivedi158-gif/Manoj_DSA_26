@@ -9,7 +9,9 @@
 //     }
 // }
 
-                //   nth term = a+(n-1)d    d=difference of two no.
+
+
+                                   //   nth term = a+(n-1)d    d=difference of two no.
 
  // a=4 , d=3 , n=5; 
 #include<iostream>
