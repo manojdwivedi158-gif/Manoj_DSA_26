@@ -8,7 +8,7 @@ int main(){
     cin>>y;
     cout<<"enter your jump";
     cin>>z;
-    for(int i=x;i<=x+(z-1)*z;i++){
+    for(int i=x;i<=x+(y-1)*z;i+=5){
         cout<<i<<endl;
     }
 }
