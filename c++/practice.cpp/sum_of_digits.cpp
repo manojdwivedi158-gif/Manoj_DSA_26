@@ -14,16 +14,42 @@
 // }
 
 
+// #include<iostream>
+// using namespace std;
+// int main(){
+//     int n,sum=0;
+//     cout<<"enter your number:";
+//     cin>>n;
+//     while(n!=0){
+//         int ld = n%10;
+       
+//         if(n%2==0){
+//         sum+=ld;
+//         }
+//          n /=10;
+//     }
+//     cout<<sum;
+// }
+
+
+
+
+
 #include<iostream>
 using namespace std;
 int main(){
     int n,sum=0;
     cout<<"enter your number:";
     cin>>n;
-    while(n!=0){
-        int lastdigit = n%10;
-        n /=10;
-        sum+=lastdigit;
+    while(n>0){
+        int ld = n%10;
+       
+        if(ld%2==0){
+        
+        sum+=ld;
+        }
+         n /=10;
     }
     cout<<sum;
-}
+    
+} 
