@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-    int n,sum=0,ld,tsum,m;
+    int n,rev=0,ld,tsum,m;
     cout<<"enter your number:";
     cin>>n;
     m=n;
@@ -9,11 +9,11 @@ int main(){
     while(n>0){
 
         ld = n%10;
-       sum *= 10;
-       sum += ld;
+       rev *= 10;
+       rev += ld;
        n /= 10; 
     }
-    cout<<sum<<endl;
+    cout<<rev<<endl;
    
-     cout<<m+sum;
+     cout<<"The sum of "<<m<<" and "<<rev<<" is:"<<m+rev;
 }
