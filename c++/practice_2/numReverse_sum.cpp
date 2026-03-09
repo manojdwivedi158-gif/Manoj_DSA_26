@@ -15,5 +15,5 @@ int main(){
     }
     cout<<rev<<endl;
    
-     cout<<"The sum of "<<m<<" and "<<rev<<" is:"<<m+rev;
+     cout<<"The sum of "<<m<<" and "<<rev<<" is : "<<m+rev;
 }
