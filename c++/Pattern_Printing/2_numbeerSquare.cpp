@@ -1,8 +1,13 @@
-// print the output 1234
-//                  1234
-//                  1234
-//                  1234
 
+// 1 2 3 4 5 6 7 8
+// 1 2 3 4 5 6 7 8
+// 1 2 3 4 5 6 7 8
+// 1 2 3 4 5 6 7 8
+// 1 2 3 4 5 6 7 8
+// 1 2 3 4 5 6 7 8
+// 1 2 3 4 5 6 7 8
+
+//   n = 8 ;
 
 #include<iostream>
 using namespace std;
@@ -23,18 +28,3 @@ int main(){
 }
 
 
-// #include<iostream>
-// using namespace std;
-// int main(){
-//     int n,m;
-//     cout<<"enter your number of rows:";
-//     cin>>n;
-     
-   
-//     for(int i=n;i>=1;i--){
-//         for(int j=i;j>=1;j--){
-//             cout<<j<<" ";
-//         }
-//         cout<<endl;
-//     }
-// }
