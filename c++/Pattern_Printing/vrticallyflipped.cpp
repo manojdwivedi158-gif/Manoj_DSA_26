@@ -1,3 +1,15 @@
+
+//  enter your number:7
+
+//  # # # # # # # * 
+//  # # # # # # * *
+//  # # # # # * * *
+//  # # # # * * * *
+//  # # # * * * * *
+//  # # * * * * * *
+//  # * * * * * * *
+
+
 #include<iostream>
 using namespace std;
 int main(){
