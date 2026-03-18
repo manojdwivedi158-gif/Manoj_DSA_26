@@ -1,3 +1,9 @@
+// enter your number:5
+        
+//       * * 
+//     * * * * 
+//   * * * * * * 
+// * * * * * * * * 
 #include<iostream>
 using namespace std;
 int main(){
