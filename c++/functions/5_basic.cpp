@@ -1,4 +1,11 @@
-#include<iostream>
+
+//   china have also good technology & architecture
+//   hello brother
+//   USA have the best technology & ai infrastructure
+//   russia is the first country in land
+//   you are in india
+ 
+ #include<iostream>
 using namespace std;
 int india(){
     cout<<" you are in india "<<endl;
