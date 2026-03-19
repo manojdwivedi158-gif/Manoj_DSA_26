@@ -2,13 +2,14 @@
 using namespace std;
 int india(){
     cout<<" welcome to the country "<<endl;
+    return 0;
+ 
 }
 int main(){
-    char a;
-    cout<<"enter the country you are going to visit :";
-    cin>>a;
     
-    cout<<endl;
+    cout<<"enter the country you are going to visit :"<<endl;
+ 
+    
     india();
     
 }
